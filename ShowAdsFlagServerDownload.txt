@@ -9,7 +9,7 @@
     {
       "BundleId": "com.abdulghafoor.team.death.match4x4",
       "ShowAdsFlag": true,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
