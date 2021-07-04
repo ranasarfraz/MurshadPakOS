@@ -64,7 +64,7 @@
       "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AFU"
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.abdulghafoor.fps.commando.secretmission",
