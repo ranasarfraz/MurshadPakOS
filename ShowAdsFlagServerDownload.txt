@@ -12,11 +12,7 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-<<<<<<< HEAD
       "HaveFacebookRewardedAd": true,
-=======
-      "HaveFacebookRewardedAd": false,
->>>>>>> 187560d274b59e82ae13db06305810b29e2f10ca
       "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
@@ -64,11 +60,7 @@
       "ShowCustomNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-<<<<<<< HEAD
       "HaveFacebookRewardedAd": true,
-=======
-      "HaveFacebookRewardedAd": false,
->>>>>>> 187560d274b59e82ae13db06305810b29e2f10ca
       "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
