@@ -28,7 +28,13 @@
       "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.truck4x4.mad.truck.driving20",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.4"
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": true,
+      "BundleVersionCode": "1.4",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.abdulghafoor.monster.truck4x4.demolisher.derby",
