@@ -40,7 +40,13 @@
       "BundleId": "com.abdulghafoor.monster.truck4x4.demolisher.derby",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "2.3"
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": true,
+      "BundleVersionCode": "2.3",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.abdulghafoor.formula.car.demolition.derby2021",
