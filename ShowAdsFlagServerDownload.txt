@@ -100,7 +100,13 @@
       "BundleId": "com.abdul.ghafoor.boat.fishing.simulator2019",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.7"
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": true,
+      "BundleVersionCode": "2.1",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.abdul.ghafoor.fury.monster.truck4x4.com",
