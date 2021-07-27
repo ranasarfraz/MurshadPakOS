@@ -4,7 +4,13 @@
       "BundleId": "com.abdul.ghafoor.monster.bus.demolition.derby.destruction2020",
       "ShowAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "BundleVersionCode": "1.2"
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.3",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
     },
     {
       "BundleId": "com.abdulghafoor.team.death.match4x4",
@@ -115,7 +121,7 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.6",
+      "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "5",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
