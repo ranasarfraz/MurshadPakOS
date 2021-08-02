@@ -1,0 +1,28 @@
+{
+  "AdIds": [
+    {
+      "BundleId": "com.ahmadzubair.train.carcrashdestruction.derbysimulator2021",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.0",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    },
+    {
+      "BundleId": "com.abdulghafoor.team.death.match4x4",
+      "ShowAdsFlag": true,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "5",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF"
+    }             
+  ]
+}
