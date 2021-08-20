@@ -3,7 +3,9 @@
     {
       "BundleId": "com.ahmadzubair.train.carcrashdestruction.derbysimulator2021",
       "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
@@ -15,7 +17,9 @@
     {
       "BundleId": "com.ahmadzubair.monstertruck.demolitionderby.crashdestruction2021",
       "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
@@ -27,7 +31,9 @@
     {
       "BundleId": "com.ahmadzubair.monster.school.bus.demolitionderby2021",
       "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
@@ -39,7 +45,9 @@
     {
       "BundleId": "com.ahmadzubair.formulacarcrash.destructionderby2021",
       "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
@@ -51,12 +59,14 @@
     {
       "BundleId": "com.abdulghafoor.team.death.match4x4",
       "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "5",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
     }             
