@@ -3,7 +3,7 @@
     {
       "BundleId": "com.ahmadzubair.train.carcrashdestruction.derbysimulator2021",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
@@ -17,7 +17,7 @@
     {
       "BundleId": "com.ahmadzubair.monstertruck.demolitionderby.crashdestruction2021",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
@@ -31,7 +31,7 @@
     {
       "BundleId": "com.ahmadzubair.monster.school.bus.demolitionderby2021",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
@@ -45,7 +45,7 @@
     {
       "BundleId": "com.ahmadzubair.formulacarcrash.destructionderby2021",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
@@ -59,7 +59,7 @@
     {
       "BundleId": "com.abdulghafoor.team.death.match4x4",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
