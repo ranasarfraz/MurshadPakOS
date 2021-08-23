@@ -83,6 +83,6 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF"
-    }                  
+    }
   ]
 }
