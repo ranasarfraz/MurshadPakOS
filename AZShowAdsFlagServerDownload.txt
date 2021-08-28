@@ -103,7 +103,7 @@
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
-      "AppleID": "1580600670"
+      "AppleID": "15806006701"
     }
   ]
 }
