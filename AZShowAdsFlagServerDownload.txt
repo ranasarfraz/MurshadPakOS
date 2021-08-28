@@ -12,7 +12,8 @@
       "BundleVersionCode": "1.7",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1579354071"
     },
     {
       "BundleId": "com.ahmadzubair.monstertruck.demolitionderby.crashdestruction2021",
@@ -26,7 +27,8 @@
       "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1580600670"
     }, 
     {
       "BundleId": "com.ahmadzubair.monster.school.bus.demolitionderby2021",
@@ -40,7 +42,8 @@
       "BundleVersionCode": "1.4",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1580600777"
     },  
     {
       "BundleId": "com.ahmadzubair.formulacarcrash.destructionderby2021",
@@ -54,7 +57,8 @@
       "BundleVersionCode": "1.5",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1580888005"
     }, 
     {
       "BundleId": "com.ahmadzubair.cityoil.tankerdrive.simulator2021",
@@ -68,7 +72,8 @@
       "BundleVersionCode": "1.1",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1582468337"
     }, 
     {
       "BundleId": "com.ahmadzubair.crazy.megaramp.gtcar.stunt2021",
@@ -82,7 +87,8 @@
       "BundleVersionCode": "1.3",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1582504447"
     }, 
     {
       "BundleId": "com.abdulghafoor.team.death.match4x4",
@@ -96,7 +102,8 @@
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "25",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF"
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1580600670"
     }
   ]
 }
