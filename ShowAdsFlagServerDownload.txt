@@ -224,6 +224,21 @@
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
-    }                   
+    },
+    {
+      "BundleId": "com.abdulghafoor.uspolice.monster.truck.derby",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": true,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "1.1",
+      "InterstitialAdDelayTime": "25",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1549532269"
+    }                      
   ]
 }
