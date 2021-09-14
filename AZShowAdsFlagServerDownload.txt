@@ -10,7 +10,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.8",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1579354071"
@@ -25,7 +25,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1580600670"
@@ -40,7 +40,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1580600777"
@@ -55,7 +55,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1580888005"
@@ -70,7 +70,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.2",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1582468337"
@@ -85,7 +85,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1582504447"
@@ -100,7 +100,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "1.6",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "15806006701"
