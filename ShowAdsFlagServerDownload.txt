@@ -68,11 +68,11 @@
       "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "2.6",
+      "IsAdmobLimited": true,
+      "BundleVersionCode": "2.7",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF",
+      "AdNetworksPriority": "AUC",
       "AppleID": "1470146173"
     },
     {
@@ -143,11 +143,11 @@
       "ShowAdmobNativeAdsFlag": true,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
-      "HaveFacebookRewardedAd": false,
+      "IsAdmobLimited": true,
       "BundleVersionCode": "1.6",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF",
+      "AdNetworksPriority": "AUC",
       "AppleID": "1543897610"
     },
     {
