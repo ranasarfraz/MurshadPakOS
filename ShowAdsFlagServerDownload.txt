@@ -54,10 +54,10 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.8",
+      "BundleVersionCode": "1.9",
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "30",
-      "AdNetworksPriority": "AUF",
+      "AdNetworksPriority": "AUC",
       "AppleID": "1536730858"
     },
     {
