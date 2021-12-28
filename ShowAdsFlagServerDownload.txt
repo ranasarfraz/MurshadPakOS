@@ -70,7 +70,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": true,
       "BundleVersionCode": "2.9",
-      "InterstitialAdDelayTime": "25",
+      "InterstitialAdDelayTime": "21",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUC",
       "AppleID": "1470146173"
