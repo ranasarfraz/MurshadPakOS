@@ -9,8 +9,8 @@
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
-      "BundleVersionCode": "1.5",
-      "InterstitialAdDelayTime": "25",
+      "BundleVersionCode": "1.6",
+      "InterstitialAdDelayTime": "22",
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1531319281"
