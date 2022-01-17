@@ -392,9 +392,9 @@
     },
     {
       "BundleId": "com.abdulghafoor.railway.city.train.track.construction3d.simulatorgame",
-      "ShowAdsFlag": true,
+      "ShowAdsFlag": false,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
