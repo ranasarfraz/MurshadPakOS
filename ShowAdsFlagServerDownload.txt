@@ -347,9 +347,9 @@
     },
     {
       "BundleId": "com.abdulghafoor.heavytruck.offroadcargo.truckdrivergames",
-      "ShowAdsFlag": true,
+      "ShowAdsFlag": false,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
