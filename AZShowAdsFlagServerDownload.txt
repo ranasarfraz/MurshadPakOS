@@ -65,7 +65,7 @@
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": false,
-      "ShowAdmobNativeAdsFlag": falses,
+      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
