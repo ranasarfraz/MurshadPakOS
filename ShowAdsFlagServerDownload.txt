@@ -494,6 +494,21 @@
       "RewardedAdDelayTime": "30",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
+    },
+    {
+      "BundleId": "com.abdulghafoor.xtreme.bike.racing.motor.bike.traffic.tour.games",
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
+      "ShowAdmobNativeAdsFlag": false,
+      "ShowBannerAdsFlag": true,
+      "ShowRewardedAdsFlag": true,
+      "HaveFacebookRewardedAd": false,
+      "BundleVersionCode": "100",
+      "InterstitialAdDelayTime": "18",
+      "RewardedAdDelayTime": "30",
+      "AdNetworksPriority": "AUF",
+      "AppleID": "1549532269"
     }                 
   ]
 }
