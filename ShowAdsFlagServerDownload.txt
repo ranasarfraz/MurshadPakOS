@@ -11,7 +11,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1531319281"
     },
@@ -26,7 +26,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1505109728"
     },
@@ -41,7 +41,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "50",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1531318682"
     },
@@ -56,7 +56,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "20",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "AppleID": "1536730858"
     },
@@ -71,7 +71,7 @@
       "IsAdmobLimited": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "AppleID": "1470146173"
     },
@@ -86,7 +86,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1545742178"
     },
@@ -101,7 +101,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "157935407155"
     },
@@ -116,7 +116,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "20",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1544772912"
     },
@@ -131,7 +131,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "50",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1543929727"
     },
@@ -146,7 +146,7 @@
       "IsAdmobLimited": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "20",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "AppleID": "1543897610"
     },
@@ -161,7 +161,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1505109858"
     },
@@ -176,7 +176,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1456766276"
     },
@@ -191,7 +191,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1483665819"
     },
@@ -206,7 +206,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -221,7 +221,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -236,7 +236,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -251,7 +251,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -266,7 +266,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -281,7 +281,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -296,7 +296,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     } ,
@@ -311,7 +311,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -326,7 +326,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -341,7 +341,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -356,7 +356,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -371,7 +371,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -386,7 +386,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -401,7 +401,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -416,7 +416,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "22",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -431,7 +431,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -446,7 +446,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -454,14 +454,14 @@
       "BundleId": "com.abdulghafoor.realdriver.carparkingmini.simulator2022",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": false,
+      "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": false,
+      "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "InterstitialAdDelayTime": "10",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     } ,
@@ -476,7 +476,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     } ,
@@ -491,7 +491,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -506,7 +506,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -521,7 +521,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -536,7 +536,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -551,7 +551,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -566,7 +566,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
@@ -581,7 +581,7 @@
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "18",
-      "RewardedAdDelayTime": "30",
+      "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1549532269"
     },
