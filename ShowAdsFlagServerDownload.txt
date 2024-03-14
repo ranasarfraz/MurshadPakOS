@@ -10,7 +10,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "22",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1531319281"
@@ -40,7 +40,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "50",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1531318682"
@@ -55,7 +55,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "20",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "AppleID": "1536730858"
@@ -70,7 +70,7 @@
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "22",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUC",
       "AppleID": "1470146173"
@@ -85,7 +85,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "18",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1545742178"
@@ -115,7 +115,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "20",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1544772912"
@@ -130,7 +130,7 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "50",
+      "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
       "AppleID": "1543929727"
@@ -139,7 +139,7 @@
       "BundleId": "com.abdulghafoor.fps.commando.secretmission",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": true,
