@@ -589,7 +589,7 @@
       "BundleId": "com.abdulghafoor.xtreme.gangster.bike.racing.strike.tour.race.simulator",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
