@@ -1,7 +1,7 @@
 
 {
-    "FirstGameBundleID":"com.ahmadzubair.monster.school.bus.demolitionderby2021",
-    "Gameurl1": "https://itunes.apple.com/us/app/school-bus-4x4-derby/id1580600777",
+    "FirstGameBundleID":"com.abdulghafoor.xtreme.gangster.bike.racing.strike.tour.race",
+    "Gameurl1": "https://itunes.apple.com/us/app/bike-vegas-city-tour-ridding/id6478599188",
     "Gameurl2": "https://itunes.apple.com/us/app/modern-tractor-farming-sim-20/id1531318682"
 }
 
