@@ -62,8 +62,8 @@
     },
     {
       "BundleId": "com.abdulghafoor.monster.truck4x4.demolisher.derby",
-      "ShowAdsFlag": false,
-      "ShowRewardedInterstitialAdsFlag": false,
+      "ShowAdsFlag": true,
+      "ShowRewardedInterstitialAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
