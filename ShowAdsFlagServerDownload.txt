@@ -13,13 +13,19 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
-      "AppleID": "1531319281"
+      "AppleID": "1531319281",
+      "ShowInGameAds": false,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowAppOpenAdsFlag": false
     },
     {
       "BundleId": "com.abdulghafoor.team.death.match4x4",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
@@ -28,7 +34,13 @@
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
-      "AppleID": "1505109728"
+      "AppleID": "1505109728",
+      "ShowInGameAds": false,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowAppOpenAdsFlag": false
     },
     {
       "BundleId": "com.abdul.ghafoor.modern.tractor.farming.sim20",
@@ -424,7 +436,7 @@
       "BundleId": "com.abdulghafoor.deer.hunting.snipershooter.hunter3d",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
@@ -433,7 +445,13 @@
       "InterstitialAdDelayTime": "18",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
-      "AppleID": "1549532269"
+      "AppleID": "1549532269",
+      "ShowInGameAds": false,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowAppOpenAdsFlag": false
     },
     {
       "BundleId": "com.abdulghafoor.walkingzombie.deadfire.shooting3d",
