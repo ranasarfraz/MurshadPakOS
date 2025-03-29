@@ -13,7 +13,13 @@
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
-      "AppleID": "1579354071"
+      "AppleID": "1579354071", 
+      "ShowInGameAds": false,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowAppOpenAdsFlag": false
     },
     {
       "BundleId": "com.ahmadzubair.monstertruck.demolitionderby.crashdestruction2021",
@@ -160,10 +166,16 @@
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
-      "InterstitialAdDelayTime": "10",
+      "InterstitialAdDelayTime": "30",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
-      "AppleID": "15806006701"
+      "AppleID": "15806006701", 
+      "ShowInGameAds": false,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowAppOpenAdsFlag": false
     }, 
     {
       "BundleId": "com.ahmadzubair.mypetcat.animalsimulator.virtualcat",
@@ -199,16 +211,22 @@
       "BundleId": "com.ahmadzubair.trainrobottransform3d.cartransform.roboshooting",
       "ShowAdsFlag": true,
       "ShowRewardedInterstitialAdsFlag": false,
-      "ShowCustomNativeAdsFlag": true,
+      "ShowCustomNativeAdsFlag": false,
       "ShowAdmobNativeAdsFlag": false,
-      "ShowBannerAdsFlag": true,
+      "ShowBannerAdsFlag": false,
       "ShowRewardedAdsFlag": true,
       "HaveFacebookRewardedAd": false,
       "BundleVersionCode": "100",
       "InterstitialAdDelayTime": "10",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
-      "AppleID": "15806006701"
+      "AppleID": "15806006701", 
+      "ShowInGameAds": false,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowAppOpenAdsFlag": false
     }, 
     {
       "BundleId": "com.ahmadzubair.virtualdog.puppypetdog.simulatorlife",
@@ -328,7 +346,13 @@
       "InterstitialAdDelayTime": "90",
       "RewardedAdDelayTime": "0",
       "AdNetworksPriority": "AUF",
-      "AppleID": "1599133653"
+      "AppleID": "1599133653", 
+      "ShowInGameAds": false,
+      "InGameAdsDelayTime": "80",
+      "DoShowMediatedBanner": false,
+      "DoShowMediatedAppOpen": false,
+      "DoShowAppOpenAfterAd": false,
+      "ShowAppOpenAdsFlag": false
     }, 
     {
       "BundleId": "com.ahmadzubair.ultimatetruck.drivingsimulator.truck2022",
