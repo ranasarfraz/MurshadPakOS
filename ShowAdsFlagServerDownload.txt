@@ -3,9 +3,7 @@
     {
       "BundleId": "com.abdul.ghafoor.monster.bus.demolition.derby.destruction2020",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": false, 
       "BundleVersionCode": "100",
@@ -22,9 +20,7 @@
     {
       "BundleId": "com.abdulghafoor.team.death.match4x4",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -41,9 +37,7 @@
     {
       "BundleId": "com.abdul.ghafoor.modern.tractor.farming.sim20",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -54,9 +48,7 @@
     {
       "BundleId": "com.abdul.ghafoor.monster.truck.jam.derby.truck4x4.mad.truck.driving20",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -67,9 +59,7 @@
     {
       "BundleId": "com.abdulghafoor.monster.truck4x4.demolisher.derby",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": true,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
@@ -87,9 +77,7 @@
     {
       "BundleId": "com.abdulghafoor.formula.car.demolition.derby2021",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -100,9 +88,7 @@
     {
       "BundleId": "com.abdulghafoor.atv.quadbike.bike4x4derby2021",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -113,9 +99,7 @@
     {
       "BundleId": "com.abdulghafoor.monster.truck4x4.ramp.stunts2020",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -126,9 +110,7 @@
     {
       "BundleId": "com.abdulghafoor.antiterrorist.commando4v4",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -139,9 +121,7 @@
     {
       "BundleId": "com.abdulghafoor.fps.commando.secretmission",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "IsAdmobLimited": false,
@@ -153,9 +133,7 @@
     {
       "BundleId": "com.abdulghafoor.gwadar.ship.simulator2020",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -166,9 +144,7 @@
     {
       "BundleId": "com.abdul.ghafoor.boat.fishing.simulator2019",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -179,9 +155,7 @@
     {
       "BundleId": "com.abdul.ghafoor.fury.monster.truck4x4.com",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -192,9 +166,7 @@
     {
       "BundleId": "com.abdul.ghafoor.megaramp.gtcarstunt.games2021",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -205,9 +177,7 @@
     {
       "BundleId": "com.abdul.ghafoor.helirobot.transform2019",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -218,9 +188,7 @@
     {
       "BundleId": "com.abdulghafoor.uspolice.monster.truck.derby",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -231,9 +199,7 @@
     {
       "BundleId": "com.abdulghafoor.gt.superhero.megaramp.carstunt3d",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -244,9 +210,7 @@
     {
       "BundleId": "com.abdulghafoor.crazy.megaramp.bikestuntsimulator",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -257,9 +221,7 @@
     {
       "BundleId": "com.abdulghafoor.atv.quadbike.derbystunt.racing2022",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -270,9 +232,7 @@
     {
       "BundleId": "com.abdulghafoor.city.site.crane.construction.simulator.game2022",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -283,9 +243,7 @@
     {
       "BundleId": "com.abdulghafoor.pet.dog.simulator.puppydoggame",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -296,9 +254,7 @@
     {
       "BundleId": "com.abdulghafoor.virtual.petcat.cutecat3d.simulatorgame",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -309,9 +265,7 @@
     {
       "BundleId": "com.abdulghafoor.animaltransport.ship.drivinggame.bigshipgames",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -322,9 +276,7 @@
     {
       "BundleId": "com.abdulghafoor.heavytruck.offroadcargo.truckdrivergames",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -335,9 +287,7 @@
     {
       "BundleId": "com.abdulghafoor.superhero.tankrobot3d.shootinggame",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -348,9 +298,7 @@
     {
       "BundleId": "com.abdulghafoor.spidercrane.robot3d.shooting",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -361,9 +309,7 @@
     {
       "BundleId": "com.abdulghafoor.railway.city.train.track.construction3d.simulatorgame",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -374,9 +320,7 @@
     {
       "BundleId": "com.abdulghafoor.grandjail.prisonjailescape.shooter3dgame",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -387,9 +331,7 @@
     {
       "BundleId": "com.abdulghafoor.deer.hunting.snipershooter.hunter3d",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -406,9 +348,7 @@
     {
       "BundleId": "com.abdulghafoor.walkingzombie.deadfire.shooting3d",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -419,9 +359,7 @@
     {
       "BundleId": "com.abdulghafoor.realdriver.carparkingmini.simulator2022",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -432,9 +370,7 @@
     {
       "BundleId": "com.abdulghafoor.cardriving.jeepdriving.offroad2022",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -445,9 +381,7 @@
     {
       "BundleId": "com.abdulghafoor.powercar.washing.supercar.simulator2022",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -458,9 +392,7 @@
     {
       "BundleId": "com.abdulghafoor.xtreme.bike.racing.motor.bike.traffic.tour.games",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -471,9 +403,7 @@
     {
       "BundleId": "com.abdulghafoor.offroad.bmx.racing.bicycle.riding.tricky.stunts",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -484,9 +414,7 @@
     {
       "BundleId": "com.abdulghafoor.offroad.bus.simulator.games.passenger.busgames",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -497,9 +425,7 @@
     {
       "BundleId": "com.abdulghafoor.bmx.traffictour.cycleracing.bike.rushgames",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -510,9 +436,7 @@
     {
       "BundleId": "com.abdulghafoor.indiantruck.transporter.cargo.truckgame",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -523,9 +447,7 @@
     {
       "BundleId": "com.abdulghafoor.longtruck.oil.transport.duty.driver.game",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
@@ -536,9 +458,7 @@
     {
       "BundleId": "com.abdulghafoor.xtreme.gangster.bike.racing.strike.tour.race.simulator",
       "ShowAdsFlag": true,
-      "ShowRewardedInterstitialAdsFlag": false,
       "ShowCustomNativeAdsFlag": true,
-      "ShowAdmobNativeAdsFlag": false,
       "ShowBannerAdsFlag": true,
       "ShowRewardedAdsFlag": true,
       "BundleVersionCode": "100",
